@@ -32,3 +32,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sank29&show_icons=true&locale=en" alt="sank29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sank29&" alt="sank29" /></p>
+
+
+## Trophy & Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=sank29](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sank29&layout=compact)](https://github.com/sank29/github-readme-stats) |
+| :---: | :---: |
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sank29&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=sank29&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
+
+| [![Sanket's github activity graph](https://activity-graph.herokuapp.com/graph?username=sank29&theme=react-dark)](https://github.com/sanket/github-readme-activity-graph) |  
+| :---: |
+
+  ![GitHub metrics](https://metrics.lecoq.io/sank29) 
+
+
+
+
