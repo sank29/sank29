@@ -28,7 +28,7 @@ knowledge. Looking for enhancing my skills as a Backend Developer.</h5>
 
 - 📫 How to reach me **wankhedes29@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/sank29/Resume)
+- 📄 Know about my experiences [My Resume](https://github.com/sank29/Resume/blob/main/Sanket_Wankhede_Resume.pdf)
 
 
 <h3 align="center">Connect with me:</h3>
