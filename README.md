@@ -32,8 +32,7 @@ knowledge. Looking for enhancing my skills as a Backend Developer.</h5>
 
 
 <h3 align="center">Connect with me:</h3>
-<!-- <p align="center">
-<a href="https://linkedin.com/in/sanket-wankhede-6036b716b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sank29" height="30" width="40" /></a> -->
+
  
  <p align="center">
       <br/>
